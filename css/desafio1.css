@@ -1,16 +1,22 @@
 * {
-    padding: 0%;
-    margin: 0%;
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
 }
 
 .conteiner {
     background-image: linear-gradient(to left, rgb(63, 116, 172), rgb(6, 43, 138));
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
+    padding: 10px;
+    z-index: 1;
 }
 
 .form {
@@ -19,29 +25,54 @@
     align-items: center;
     flex-direction: column;
     gap: 5px;
-}
-
-main,
-.form {
+    padding: 10px;
     background-color: rgba(227, 227, 227, 0.296);
-    padding: 0.5rem 1rem;
     border-radius: 5px;
-    border-style: solid;
-    border-width: 2px;
-    border-color: rgba(240, 248, 255, 0.379);
+    border: 2px solid rgba(240, 248, 255, 0.379);
+    max-width: 400px;
+    width: 100%;
+    z-index: 2;
 }
 
-input {
+main {
+    background-color: rgba(227, 227, 227, 0.296);
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid rgba(240, 248, 255, 0.379);
+    width: 100%;
+    max-width: 800px;
+}
+
+input, th, tr {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
     background-color: rgba(255, 255, 255, 0.394);
-    padding: 2%;
 }
 
 th {
-    color: #ffffff;
+    color: #000000;
     text-align: center;
-    padding-left: 20px;
+    padding-left: 50px;
 }
 
 tr {
     text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .conteiner {
+        flex-direction: column;
+    }
+
+    .form, main {
+        max-width: 100%;
+    }
+
+    th {
+        color: #000000;
+        text-align: center;
+        padding: 2px;
+    }
+    
 }
