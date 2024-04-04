@@ -9,7 +9,12 @@ body {
 }
 
 .conteiner {
-    background-image: linear-gradient(to left, rgb(63, 116, 172), rgb(6, 43, 138));
+    background-image: url(https://bnetcmsus-a.akamaihd.net/cms/blog_header/1u/1UWLXDKRFJW51481334070695.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh; 
+    margin: 0; 
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -17,4 +22,26 @@ body {
     gap: 10px;
     padding: 10px;
     z-index: 1;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px;
+    background-color: rgba(227, 227, 227, 0.296);
+    border-radius: 5px;
+    border: 2px solid rgba(240, 248, 255, 0.379);
+    max-width: 400px;
+    width: 100%;
+    z-index: 2;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.842);
 }
