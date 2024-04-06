@@ -5,7 +5,7 @@ O primeiro desafio envolve 11 atividades destinadas a aprimorar a lógica de pro
 <br />
 
 ## Para os Instrutores 
-CAso necessario os códigops base por favor acesse a pasta respostas.md ou teste via deploy.
+CAso necessario os códigops base por favor acesse a pasta ../md/respostas.md ou teste via deploy.
 
 ## 👨🏻‍💻Tecnologias usadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
