@@ -37,7 +37,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 ## 🚀Quem proporcionou a execução desse projeto?
-O projeto foi desenvolvido no curso de HTML5, CSS3 e JAvaScript no Programa Trilhas Do InovaMaranhão juntamente com a SECTI(Secretaria de Estado da Ciência, Tecnologia e Inovação do Maranhão).
+O projeto foi desenvolvido no Programa Trilhas Do InovaMaranhão juntamente com a SECTI(Secretaria de Estado da Ciência, Tecnologia e Inovação do Maranhão).
 
 <h4 align="center">
     👨🏻‍🚀 Feito por Hendrickson Weib  <a href="https://www.linkedin.com/in/hendrickson-weib-5046a027b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
