@@ -4,6 +4,8 @@
 O primeiro desafio envolve 11 atividades destinadas a aprimorar a lógica de programação por meio do JavaScript. Essas atividades incluem o uso de métodos de array, declaração de variáveis, funções e outros atributos e métodos do JavaScript. O objetivo é fortalecer a compreensão e aplicação da lógica de programação por meio de exercícios práticos e variados.
 <br />
 
+## Para os Instrutores 
+CAso necessario os códigops base por favor acesse a pasta respostas.md ou teste via deploy.
 
 ## 👨🏻‍💻Tecnologias usadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
