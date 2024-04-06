@@ -6,6 +6,10 @@ O primeiro desafio envolve 11 atividades destinadas a aprimorar a lógica de pro
 
 ## Para os Instrutores 
 CAso necessario os códigops base por favor acesse a pasta ../md/respostas.md ou teste via deploy.
+```sh
+https://hendricksonweib.github.io/Desafio-Trilhas/
+
+```
 
 ## 👨🏻‍💻Tecnologias usadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
